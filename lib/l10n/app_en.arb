@@ -1,0 +1,97 @@
+{
+  "@@locale": "en",
+  "appTitle": "Ecommerce Exam",
+  "selectChapter": "Select Chapter",
+  "chapterOne": "Chapter One",
+  "chapterTwo": "Chapter Two",
+  "chapterThree": "Chapter Three",
+  "chapterFour": "Chapter Four",
+  "chapterFive": "Chapter Five",
+  "chapterSix": "Chapter Six",
+  "chapterSeven": "Chapter Seven",
+  "selectExam": "Select Exam",
+  "examOfChapter": "Exam {examNumber} of {chapterTitle}",
+  "@examOfChapter": {
+    "placeholders": {
+      "examNumber": {
+        "type": "int"
+      },
+      "chapterTitle": {
+        "type": "String"
+      }
+    }
+  },
+
+  "examChapter": "Chapter {chapterNumber} Exam",
+  "@examChapter": {
+    "placeholders": {
+      "chapterNumber": {
+        "type": "int"
+      }
+    }
+  },
+  "selectTfQuestions": "Select number of True/False questions:",
+  "selectedCount": "Selected Count: {count}",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectMcQuestions": "Select number of Multiple Choice questions:",
+  "startExam": "Start the Exam",
+  "questionNumber": "Question {number}: {questionText}",
+  "@questionNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "questionText": {
+        "type": "String"
+      }
+    }
+  },
+  "trueOption": "True",
+  "falseOption": "False",
+  "previous": "Previous",
+  "next": "Next",
+  "finishExam": "Finish Exam",
+  "results": "Results",
+  "scoreMessage": "You scored {score} out of {total}",
+  "@scoreMessage": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "perfectScore": "Wow wow, you aced it! Mashallah!",
+  "veryGoodScore": "Nice! You scored higher than me and I wrote the questions!",
+  "goodScore": "You passed, you passed habibi, but maybe read again, or pray for a war before the exam!",
+  "tryAgainMessage": "Still early! You can catch up, inshallah!",
+  "incorrectAnswers": "Incorrect Answers:",
+  "questionLabel": "Question:",
+  "correctAnswerLabel": "Correct Answer:",
+  "yourAnswerLabel": "Your Answer:",
+  "notAnswered": "Not Answered",
+  "backToHome": "Back to Home Screen",
+  "pleaseSelectChapters": "Please select chapters to start the exam.",
+  "back": "Back",
+  "questionProgress": "Question {current} / {total}",
+  "@questionProgress": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "showPreviousExams": "Show Previous Exams"
+}
+

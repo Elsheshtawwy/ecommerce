@@ -1,0 +1,95 @@
+{
+  "@@locale": "ar",
+  "appTitle": " اختبار ايكورمس",
+  "selectChapter": "اختر الفصل الدراسي",
+  "chapterOne": "الفصل الأول",
+  "chapterTwo": "الفصل الثاني",
+  "chapterThree": "الفصل الثالث",
+  "chapterFour": "الفصل الرابع",
+  "chapterFive": "الفصل الخامس",
+  "chapterSix": "الفصل السادس",
+  "chapterSeven": "الفصل السابع",
+  "selectExam": "اختر الاختبار",
+  "examOfChapter": "اختبار {examNumber} من {chapterTitle}",
+  "@examOfChapter": {
+    "placeholders": {
+      "examNumber": {
+        "type": "int"
+      },
+      "chapterTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "examChapter": "اختبار الفصل {chapterNumber}",
+  "@examChapter": {
+    "placeholders": {
+      "chapterNumber": {
+        "type": "int"
+      }
+    }
+  },
+  "selectTfQuestions": "اختر عدد أسئلة الصواب/الخطأ:",
+  "selectedCount": "العدد المحدد: {count}",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectMcQuestions": "اختر عدد أسئلة الاختيار من متعدد:",
+  "startExam": "ابدأ الاختبار",
+  "questionNumber": "السؤال {number}: {questionText}",
+  "@questionNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "questionText": {
+        "type": "String"
+      }
+    }
+  },
+  "trueOption": "صواب",
+  "falseOption": "خطأ",
+  "previous": "السابق",
+  "next": "التالي",
+  "finishExam": "إنهاء الاختبار",
+  "results": "النتائج",
+  "scoreMessage": "لقد أحرزت {score} من {total}",
+  "@scoreMessage": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "perfectScore": "جعب جعب ما شاء الله",
+  "veryGoodScore": "عاش والله جبت أعلى مني وأنا اللي داير الاسئلة",
+  "goodScore": "تمشي تمشي بس عاود اقرا اخرى أو ادعي تصير حرب قبل الامتحان",
+  "tryAgainMessage": "لسة بادرييي , تلحق تقرا إن شاء الله",
+  "incorrectAnswers": "الإجابات الخاطئة:",
+  "questionLabel": "السؤال:",
+  "correctAnswerLabel": "الإجابة الصحيحة:",
+  "yourAnswerLabel": "إجابتك:",
+  "notAnswered": "لم تجب",
+  "backToHome": "العودة للصفحة الرئيسية",
+  "pleaseSelectChapters": "الرجاء اختيار الفصول لبدء الاختبار.",
+  "back": "عودة",
+  "questionProgress": "السؤال {current} / {total}",
+  "@questionProgress": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "showPreviousExams": "عرض الاختبارات السابقة"
+}
